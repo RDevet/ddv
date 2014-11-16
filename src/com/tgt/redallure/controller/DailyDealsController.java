@@ -58,7 +58,7 @@ public class DailyDealsController {
                 deptName = "grocery";
           }
 
-          String url = "http://198.101.208.186:8000/rest/dailydeals";
+          String url = "http://ddv.target.com/api/dailydeals"; // fictional url
           
           System.out.println(url);
           String responseBody = null;
