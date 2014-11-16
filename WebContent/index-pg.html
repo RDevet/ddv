@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>RedAllure</title>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1"> 
+
+	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.1.0/jquery.mobile-1.1.0.min.css" />
+	<script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+	<script src="http://code.jquery.com/mobile/1.1.0/jquery.mobile-1.1.0.min.js"></script>
+	<script src="cordova-1.7.0.js"></script>
+            <!-- cordova facebook plugin -->
+                <script src="cdv-plugin-fb-connect.js"></script>
+            <!-- facebook js sdk -->
+                <script src="facebook_js_sdk.js"></script>
+                
+                
+<script type="text/javascript">
+
+	function loginUser0() {
+		document.getElementById("placeholder").innerHTML = "RedAllure is ready!";
+	}
+
+	  document.addEventListener('deviceready', function() {
+          try {
+          FB.init({ appId:"237763859667425", nativeInterface: CDV.FB, useCachedDialogs: false });
+          FB.Event.subscribe('auth.statusChange', handleStatusChange);	
+
+          } catch (e) {
+          alert(e);
+          }
+          }, false);
+	  
+
+  function handleStatusChange(response) {
+   document.body.className = response.authResponse ? 'connected' : 'not_connected';
+  
+   if (response.authResponse) {
+     console.log(response);
+     updateUserInfo(response);
+   }
+ }
+
+
+  function uninstallApp() {
+    FB.api({method: 'auth.revokeAuthorization'},
+      function(response) {
+        window.location.reload();
+      });
+  }
+
+  
+// Below 10:30 am code merge  
+    function loginUser() {    
+      FB.login(function(response) { }, {scope:'email,user_interests,user_likes,friends_interests,friends_likes'});  	
+    }
+
+    function updateUserInfo(response) {
+      FB.api('/me', function(response) {
+        document.getElementById('placeholder').innerHTML = '<img src="https://graph.facebook.com/' + response.id + '/picture">' + " " + response.name;
+      });
+    }
+
+    function updateInterests() {
+    FB.api('/me&fields=name,picture,interests', function(response) {
+      console.log('Got interests: ', response);
+      
+      if (!response.error) {
+        var markup = '';
+        
+        var interests = response.interests.data;
+        
+        for (var i=0; i < interests.length && i < 25; i++) {
+          var interest = interests[i];
+          
+          markup += interest.name + '<br>';
+        }
+        
+        document.getElementById('user-interests').innerHTML = markup;
+      }
+    });
+  }
+  </script>
+
+</head>
+
+
+<body>
+<div id="fb-root"></div>
+
+<div data-role="page">
+
+	<div data-role="header">
+		<h1>RedAllure</h1>
+	</div><!-- /header -->
+
+	<div data-role="content">	
+		<p>Login to allow RedAllure access to your Facebook profile.</p>		
+	</div><!-- /content -->
+
+
+	<div align="CENTER" data-role="content" data-theme="c">
+
+		<div class="content-primary">
+		<p>
+		<a href="javascript:loginUser();" data-role="button" data-theme="b">FB Login</a>
+		</p>
+		<p>
+		<a href="http://ral.target.cloudbees.net/recommend.do?deptId=5118498&storeId=1764&deptName=electronics&action=getItems" data-role="button">Target Recommendations For You</a>
+		</p>		
+		<p>
+		<a href="http://ral.target.cloudbees.net/recommend.do?deptId=5118498&storeId=1764&deptName=electronics&action=getItems" data-role="button">Target Recommendations For Friends</a>
+		</p>		
+			
+		</div>
+		<div id="placeholder"></div>
+	</div>
+
+    <div data-role="footer" data-theme="d" align="center">
+    © 2012 Target Corporation
+    </div>
+		
+</div><!-- /page -->
+
+</body>
+</html>

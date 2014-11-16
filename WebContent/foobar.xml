@@ -1,0 +1,1501 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ItemLookupResponse>
+	<OperationRequest>
+		<Arguments>
+			<Argument Name="OperationName" Value="ItemLookup" />
+			<Argument Name="AccessKeyId" Value="bafd7ad2721516f8b5ceadaf3f35da2f" />
+			<Argument Name="ResponseGroups" Value="Images,Offers,ItemAttributes" />
+			<Argument Name="ItemId"
+				Value="14150426,14235219,13492915,14039451,14123951,14227374,14204535,14172817,14214178,14277910," />
+			<Argument Name="IdType" Value="TCIN" />
+			<Argument Name="Version" Value="1" />
+		</Arguments>
+		<RequestProcessingTime>0.176</RequestProcessingTime>
+	</OperationRequest>
+	<Items>
+		<Request>
+			<IsValid>True</IsValid>
+			<ItemLookupRequest>
+				<ItemId>14150426</ItemId>
+				<ItemId>14235219</ItemId>
+				<ItemId>13492915</ItemId>
+				<ItemId>14039451</ItemId>
+				<ItemId>14123951</ItemId>
+				<ItemId>14227374</ItemId>
+				<ItemId>14204535</ItemId>
+				<ItemId>14172817</ItemId>
+				<ItemId>14214178</ItemId>
+				<ItemId>14277910</ItemId>
+				<Idtype>TCIN</Idtype>
+				<ResponseGroup>Images</ResponseGroup>
+				<ResponseGroup>Offers</ResponseGroup>
+				<ResponseGroup>ItemAttributes</ResponseGroup>
+				<Version>1</Version>
+			</ItemLookupRequest>
+		</Request>
+		<Item>
+			<ASIN>14150426</ASIN>
+			<TCIN>14150426</TCIN>
+			<SKU>14150426</SKU>
+			<DPCI>-</DPCI>
+			<Department>-</Department>
+			<ClassId>-</ClassId>
+			<ItemId>-</ItemId>
+			<Webclass>Sleepwear/Performancewear</Webclass>
+			<DetailPageURL>http://www.target.com/p/c9-by-champion-women-s-long-sleeve-supersoft-1-4-zip-assorted-colors/-/A-14150426
+			</DetailPageURL>
+			<SmallImage>
+				<URL>http://Img1.targetimg1.com/wcsstore/TargetSAS//img/p/14/15/14150426_121023133217_75x75.jpg
+				</URL>
+				<Height Units="pixels">75</Height>
+				<Width Units="pixels">75</Width>
+			</SmallImage>
+			<LargeImage>
+				<URL>http://Img1.targetimg1.com/wcsstore/TargetSAS//img/p/14/15/14150426_121023133217.jpg
+				</URL>
+				<Height Units="pixels">500</Height>
+				<Width Units="pixels">500</Width>
+			</LargeImage>
+			<ImageSets>
+				<ImageSet Category="primary">
+					<SmallImage>
+						<URL>http://Img1.targetimg1.com/wcsstore/TargetSAS//img/p/14/15/14150426_121023133217_75x75.jpg
+						</URL>
+						<Height Units="pixels">75</Height>
+						<Width Units="pixels">75</Width>
+					</SmallImage>
+					<ThumbnailImage>
+						<URL>http://Img1.targetimg1.com/wcsstore/TargetSAS//img/p/14/15/14150426_121023133217_75x75.jpg
+						</URL>
+						<Height Units="pixels">75</Height>
+						<Width Units="pixels">75</Width>
+					</ThumbnailImage>
+					<LargeImage>
+						<URL>http://Img1.targetimg1.com/wcsstore/TargetSAS//img/p/14/15/14150426_121023133217.jpg
+						</URL>
+						<Height Units="pixels">500</Height>
+						<Width Units="pixels">500</Width>
+					</LargeImage>
+				</ImageSet>
+				<ImageSet Category="variant">
+					<AlternateImages>
+						<AlternateImageCount>3</AlternateImageCount>
+						<AlternateImage seqno="0">http://Img1.targetimg1.com/wcsstore/TargetSAS//img/p/14/15/14150426_121023133217_50x50.jpg
+						</AlternateImage>
+						<AlternateImage seqno="2">http://Img1.targetimg1.com/wcsstore/TargetSAS//img/p/14/15/14150426_Alt02_120928123000_50x50.jpg
+						</AlternateImage>
+						<AlternateImage seqno="3">http://Img1.targetimg1.com/wcsstore/TargetSAS//img/p/14/15/14150426_Alt03_121005203000_50x50.jpg
+						</AlternateImage>
+					</AlternateImages>
+				</ImageSet>
+			</ImageSets>
+			<ItemAttributes>
+				<Title>C9 by ChampionÂ® Women's Long-Sleeve Supersoft 1/4 Zip -
+					Assorted Colors</Title>
+				<PackageDimensions>
+					<Height Units="INH"></Height>
+					<Length Units="INH"></Length>
+					<Weight Units="LBR"></Weight>
+					<Width Units="INH"></Width>
+				</PackageDimensions>
+				<BatteriesIncluded>N</BatteriesIncluded>
+				<BatteriesRequired>N</BatteriesRequired>
+				<CatalogNumber>204999714</CatalogNumber>
+				<ReturnMethod>This item can be returned to any Target store or
+					Target.com.</ReturnMethod>
+				<Attribute name="SIZE_CHART" value="Y" />
+				<Attribute name="132650" value="C9 Advanced" />
+				<Attribute name="107703" value="Machine wash, cold,Tumble dry low" />
+				<Attribute name="COUNTRY_SOURCE" value="CHINA" />
+				<Attribute name="MANUFACTURING_BRAND" value="C9 BY CHAMPION" />
+				<Attribute name="110435" value="88" />
+				<Attribute name="EDIT_LONGCOPY" value="N" />
+				<Attribute name="110436" value="12" />
+				<Attribute name="PO_BOX_PROHIBITED" value="Y" />
+				<Attribute name="EXPRESS_DELIVERY_ELIGIBLE" value="N" />
+				<Attribute name="BATTERIES_REQUIRED" value="N" />
+				<Attribute name="KEY_ITEM" value="N" />
+				<Attribute name="HAS_WARRANTY" value="N" />
+				<Attribute name="WHENEVER_SHIPPING_ELIGIBLE" value="N" />
+				<Attribute name="110200" value="Reflective,Piping" />
+				<Attribute name="VPP_$_EST" value="13.47" />
+				<Attribute name="VPP_%_EST" value="53.91" />
+				<Attribute name="110444" value="Athletic Top" />
+				<Attribute name="NUMBER_OF_RATINGS" value="3" />
+				<Attribute name="110445" value="Pullover Top" />
+				<Attribute name="110401" value="Finished,Straight" />
+				<Attribute name="110446" value="Collared" />
+				<Attribute name="PRODUCT_PRICECODE" value="1" />
+				<Attribute name="110447" value="Running" />
+				<Attribute name="110407" value="Women" />
+				<Attribute name="110408" value="Long sleeve" />
+				<Attribute name="110409" value="Jersey" />
+				<Attribute name="DIVISION" value="Apparel - Accessories" />
+				<Attribute name="LIST_RANGE_MIN" value="24.99" />
+				<Attribute name="IAC_ID" value="Womens Performance Tops" />
+				<Attribute name="BATTERIES_INCLUDED" value="N" />
+				<Attribute name="MERCH_CLASS" value="319" />
+				<Attribute name="SOI_PRICE_Display" value="Y" />
+				<Attribute name="IS_FRAGILE" value="N" />
+				<Attribute name="110293" value="Stand-Up" />
+				<Attribute name="IMPORT_DESIGNATION" value="IM" />
+				<Attribute name="112550" value="Solid" />
+				<Attribute name="110296" value="Zip Front,Pullover" />
+				<Attribute name="107888" value="Solid" />
+				<Attribute name="110451" value="Double stitched seams" />
+				<Attribute name="110297" value="Lightweight Fabric Construction" />
+				<Attribute name="110375" value="Stretch" />
+				<Attribute name="108659" value="Brights" />
+				<Attribute name="110298" value="Semi fitted" />
+				<Attribute name="LIST_RANGE_MAX" value="24.99" />
+				<Attribute name="107729" value="Athletic" />
+				<Attribute name="HAS_PROP65" value="N" />
+				<Attribute name="LAUNCH_PUBLISH_FLAG" value="Y" />
+				<Attribute name="MAX_ORDER_QTY" value="0" />
+				<Attribute name="IAC_GROUP" value="APPAREL" />
+				<Attribute name="OFFER_RANGE_MIN" value="18" />
+				<Attribute name="BUYERSHIP" value="IHP" />
+				<Attribute name="RETURN_METHOD"
+					value="This item can be returned to any Target store or Target.com." />
+				<Attribute name="BACKORDER_TYPE" value="Not Allowed" />
+				<Attribute name="IS_FOOD" value="N" />
+				<Attribute name="GIFT_WRAPABLE" value="Y" />
+				<Attribute name="IAC_SUBGROUP" value="WOMEN" />
+				<Attribute name="MERCHANT_PUBLISH_FLAG" value="Y" />
+				<Attribute name="IS_HAZMAT" value="N" />
+				<Attribute name="ASIN" value="14150426" />
+				<Attribute name="MERCH_SUBCLASS" value="Z Open                        " />
+				<Attribute name="ASSEMBLY_REQUIRED" value="N" />
+				<Attribute name="CIRCULAR_PUBLISH_FLAG" value="Y" />
+				<Attribute name="OFFER_RANGE_MAX" value="18" />
+				<Attribute name="BEDDING" value="N" />
+				<Attribute name="SIGN_REQUIRED" value="N" />
+				<Attribute name="CONSOLIDATED_RATING" value="4.5" />
+				<Attribute name="133454" value="Below waist" />
+				<Attribute name="RELATION_ITEM_TYPE" value="Variation Parent" />
+				<Attribute name="MAP_PRICE" value="N" />
+				<Attribute name="110428" value="Polyester" />
+				<Attribute name="110429" value="Spandex" />
+				<Attribute name="IAC_DELETE_FLAG" value="yes" />
+				<Attribute name="NO_OF_BOXES" value="0" />
+				<Attribute name="WINDOW" value="N" />
+				<Attribute name="EDIT_ADHOC_BULLETS" value="N" />
+			</ItemAttributes>
+		</Item>
+		<Item>
+			<ASIN>14235219</ASIN>
+			<TCIN>14235219</TCIN>
+			<SKU>14235219</SKU>
+			<DPCI>-</DPCI>
+			<Department>-</Department>
+			<ClassId>-</ClassId>
+			<ItemId>-</ItemId>
+			<Webclass>Junior's/Go Int'l</Webclass>
+			<DetailPageURL>http://www.target.com/p/xhilaration-juniors-sequined-mini-skirt-assorted-colors/-/A-14235219
+			</DetailPageURL>
+			<SmallImage>
+				<URL>http://Img2.targetimg2.com/wcsstore/TargetSAS//img/p/14/23/14235219_121010163000_75x75.jpg
+				</URL>
+				<Height Units="pixels">75</Height>
+				<Width Units="pixels">75</Width>
+			</SmallImage>
+			<LargeImage>
+				<URL>http://Img2.targetimg2.com/wcsstore/TargetSAS//img/p/14/23/14235219_121010163000.jpg
+				</URL>
+				<Height Units="pixels">500</Height>
+				<Width Units="pixels">500</Width>
+			</LargeImage>
+			<ImageSets>
+				<ImageSet Category="primary">
+					<SmallImage>
+						<URL>http://Img2.targetimg2.com/wcsstore/TargetSAS//img/p/14/23/14235219_121010163000_75x75.jpg
+						</URL>
+						<Height Units="pixels">75</Height>
+						<Width Units="pixels">75</Width>
+					</SmallImage>
+					<ThumbnailImage>
+						<URL>http://Img2.targetimg2.com/wcsstore/TargetSAS//img/p/14/23/14235219_121010163000_75x75.jpg
+						</URL>
+						<Height Units="pixels">75</Height>
+						<Width Units="pixels">75</Width>
+					</ThumbnailImage>
+					<LargeImage>
+						<URL>http://Img2.targetimg2.com/wcsstore/TargetSAS//img/p/14/23/14235219_121010163000.jpg
+						</URL>
+						<Height Units="pixels">500</Height>
+						<Width Units="pixels">500</Width>
+					</LargeImage>
+				</ImageSet>
+				<ImageSet Category="variant">
+					<AlternateImages>
+						<AlternateImageCount>1</AlternateImageCount>
+						<AlternateImage seqno="0">http://Img2.targetimg2.com/wcsstore/TargetSAS//img/p/14/23/14235219_121010163000_50x50.jpg
+						</AlternateImage>
+					</AlternateImages>
+				</ImageSet>
+			</ImageSets>
+			<ItemAttributes>
+				<Title>XhilarationÂ® Juniors Sequined Mini Skirt - Assorted Colors
+				</Title>
+				<PackageDimensions>
+					<Height Units="INH"></Height>
+					<Length Units="INH"></Length>
+					<Weight Units="LBR"></Weight>
+					<Width Units="INH"></Width>
+				</PackageDimensions>
+				<BatteriesIncluded>N</BatteriesIncluded>
+				<BatteriesRequired>N</BatteriesRequired>
+				<CatalogNumber>205222783</CatalogNumber>
+				<ReturnMethod>This item can be returned to any Target store or
+					Target.com.</ReturnMethod>
+				<Attribute name="SIZE_CHART" value="N" />
+				<Attribute name="104755" value="Female" />
+				<Attribute name="COUNTRY_SOURCE" value="CHINA" />
+				<Attribute name="MANUFACTURING_BRAND" value="XHILARATION" />
+				<Attribute name="110435" value="98" />
+				<Attribute name="EDIT_LONGCOPY" value="N" />
+				<Attribute name="110436" value="2" />
+				<Attribute name="PO_BOX_PROHIBITED" value="Y" />
+				<Attribute name="EXPRESS_DELIVERY_ELIGIBLE" value="Y" />
+				<Attribute name="BATTERIES_REQUIRED" value="N" />
+				<Attribute name="KEY_ITEM" value="N" />
+				<Attribute name="133350" value="Mini skirts" />
+				<Attribute name="HAS_WARRANTY" value="N" />
+				<Attribute name="WHENEVER_SHIPPING_ELIGIBLE" value="N" />
+				<Attribute name="VPP_$_EST" value="0" />
+				<Attribute name="VPP_%_EST" value="0" />
+				<Attribute name="110400" value="Mini" />
+				<Attribute name="NUMBER_OF_RATINGS" value="1" />
+				<Attribute name="133358" value="Machine wash, cold" />
+				<Attribute name="133556" value="Full waistband elastic" />
+				<Attribute name="133359" value="Glitter and sparkle" />
+				<Attribute name="PRODUCT_PRICECODE" value="1" />
+				<Attribute name="110447" value="Casual" />
+				<Attribute name="110406" value="Low Rise" />
+				<Attribute name="110407" value="Junior" />
+				<Attribute name="DIVISION" value="Apparel - Accessories" />
+				<Attribute name="LIST_RANGE_MIN" value="14.99" />
+				<Attribute name="IAC_ID" value="IMN Skirts" />
+				<Attribute name="BATTERIES_INCLUDED" value="N" />
+				<Attribute name="MERCH_CLASS" value="312" />
+				<Attribute name="SOI_PRICE_Display" value="Y" />
+				<Attribute name="IS_FRAGILE" value="N" />
+				<Attribute name="IMPORT_DESIGNATION" value="IM" />
+				<Attribute name="107886" value="Teen (13-18 years)" />
+				<Attribute name="107888" value="Solid" />
+				<Attribute name="LIST_RANGE_MAX" value="14.99" />
+				<Attribute name="110298" value="Casual Fit" />
+				<Attribute name="133688" value="Tumble dry, gentle" />
+				<Attribute name="133689" value="Iron, low" />
+				<Attribute name="HAS_PROP65" value="N" />
+				<Attribute name="LAUNCH_PUBLISH_FLAG" value="Y" />
+				<Attribute name="MAX_ORDER_QTY" value="0" />
+				<Attribute name="IAC_GROUP" value="APPAREL" />
+				<Attribute name="OFFER_RANGE_MIN" value="10" />
+				<Attribute name="BUYERSHIP" value="RTW" />
+				<Attribute name="RETURN_METHOD"
+					value="This item can be returned to any Target store or Target.com." />
+				<Attribute name="BACKORDER_TYPE" value="Not Allowed" />
+				<Attribute name="IS_FOOD" value="N" />
+				<Attribute name="GIFT_WRAPABLE" value="Y" />
+				<Attribute name="IAC_SUBGROUP" value="BOTTOMS" />
+				<Attribute name="MERCHANT_PUBLISH_FLAG" value="Y" />
+				<Attribute name="IS_HAZMAT" value="N" />
+				<Attribute name="ASIN" value="14235219" />
+				<Attribute name="MERCH_SUBCLASS" value="Z Open                        " />
+				<Attribute name="ASSEMBLY_REQUIRED" value="N" />
+				<Attribute name="CIRCULAR_PUBLISH_FLAG" value="Y" />
+				<Attribute name="OFFER_RANGE_MAX" value="10" />
+				<Attribute name="BEDDING" value="N" />
+				<Attribute name="133574" value="Non chlorine bleach when needed" />
+				<Attribute name="133651" value="Sequin detail" />
+				<Attribute name="SIGN_REQUIRED" value="N" />
+				<Attribute name="CONSOLIDATED_RATING" value="5" />
+				<Attribute name="133575" value="Do not dry clean" />
+				<Attribute name="RELATION_ITEM_TYPE" value="Variation Parent" />
+				<Attribute name="MAP_PRICE" value="N" />
+				<Attribute name="110428" value="Polyester" />
+				<Attribute name="110429" value="Spandex" />
+				<Attribute name="IAC_DELETE_FLAG" value="yes" />
+				<Attribute name="NO_OF_BOXES" value="0" />
+				<Attribute name="WINDOW" value="N" />
+				<Attribute name="EDIT_ADHOC_BULLETS" value="N" />
+			</ItemAttributes>
+		</Item>
+		<Item>
+			<ASIN>B004WKCNC2</ASIN>
+			<TCIN>13492915</TCIN>
+			<SKU>13492915</SKU>
+			<DPCI>-</DPCI>
+			<Department>-</Department>
+			<ClassId>-</ClassId>
+			<ItemId>-</ItemId>
+			<Webclass>Top-Rated sale</Webclass>
+			<DetailPageURL>http://www.target.com/p/women-s-short-zebra-sporty-rain-boots-black/-/A-13492915
+			</DetailPageURL>
+			<SmallImage>
+				<URL>http://Img1.targetimg1.com/wcsstore/TargetSAS//img/p/13/49/13492915_75x75.jpg
+				</URL>
+				<Height Units="pixels">75</Height>
+				<Width Units="pixels">75</Width>
+			</SmallImage>
+			<LargeImage>
+				<URL>http://Img1.targetimg1.com/wcsstore/TargetSAS//img/p/13/49/13492915.jpg
+				</URL>
+				<Height Units="pixels">500</Height>
+				<Width Units="pixels">500</Width>
+			</LargeImage>
+			<ImageSets>
+				<ImageSet Category="primary">
+					<SmallImage>
+						<URL>http://Img1.targetimg1.com/wcsstore/TargetSAS//img/p/13/49/13492915_75x75.jpg
+						</URL>
+						<Height Units="pixels">75</Height>
+						<Width Units="pixels">75</Width>
+					</SmallImage>
+					<ThumbnailImage>
+						<URL>http://Img1.targetimg1.com/wcsstore/TargetSAS//img/p/13/49/13492915_75x75.jpg
+						</URL>
+						<Height Units="pixels">75</Height>
+						<Width Units="pixels">75</Width>
+					</ThumbnailImage>
+					<LargeImage>
+						<URL>http://Img1.targetimg1.com/wcsstore/TargetSAS//img/p/13/49/13492915.jpg
+						</URL>
+						<Height Units="pixels">500</Height>
+						<Width Units="pixels">500</Width>
+					</LargeImage>
+				</ImageSet>
+				<ImageSet Category="variant">
+					<AlternateImages>
+						<AlternateImageCount>3</AlternateImageCount>
+						<AlternateImage seqno="0">http://Img1.targetimg1.com/wcsstore/TargetSAS//img/p/13/49/13492915_50x50.jpg
+						</AlternateImage>
+						<AlternateImage seqno="1">http://Img1.targetimg1.com/wcsstore/TargetSAS//img/p/13/49/13492915_Alt01_50x50.jpg
+						</AlternateImage>
+						<AlternateImage seqno="2">http://Img1.targetimg1.com/wcsstore/TargetSAS//img/p/13/49/13492915_Alt02_50x50.jpg
+						</AlternateImage>
+					</AlternateImages>
+				</ImageSet>
+			</ImageSets>
+			<ItemAttributes>
+				<Title>Women's Short Zebra Sporty Rain Boots - Black</Title>
+				<PackageDimensions>
+					<Height Units="INH"></Height>
+					<Length Units="INH"></Length>
+					<Weight Units="LBR"></Weight>
+					<Width Units="INH"></Width>
+				</PackageDimensions>
+				<BatteriesIncluded>N</BatteriesIncluded>
+				<BatteriesRequired>N</BatteriesRequired>
+				<CatalogNumber>203134685</CatalogNumber>
+				<ReturnMethod>This item can be returned to any Target store or
+					Target.com.</ReturnMethod>
+				<POBoxShippingExcluded>Guam,Northern Mariana Islands,American
+					Samoa,Virgin Islands, U.S.,United States Minor Outlying Islands
+				</POBoxShippingExcluded>
+				<Attribute name="SIZE_CHART" value="Y" />
+				<Attribute name="COUNTRY_SOURCE" value="CHINA" />
+				<Attribute name="111600" value="Rubber" />
+				<Attribute name="MANUFACTURING_BRAND" value="Target.com Use Only" />
+				<Attribute name="107707" value="Black" />
+				<Attribute name="111601" value="Rubber" />
+				<Attribute name="EDIT_LONGCOPY" value="N" />
+				<Attribute name="111607" value="Medium" />
+				<Attribute name="111608" value="Treaded Sole" />
+				<Attribute name="TRUE_TO_COLOR" value="5" />
+				<Attribute name="PO_BOX_PROHIBITED" value="Y" />
+				<Attribute name="ITEM_LENGTH" value="0" />
+				<Attribute name="EXPRESS_DELIVERY_ELIGIBLE" value="N" />
+				<Attribute name="BATTERIES_REQUIRED" value="N" />
+				<Attribute name="KEY_ITEM" value="N" />
+				<Attribute name="HAS_WARRANTY" value="N" />
+				<Attribute name="WHENEVER_SHIPPING_ELIGIBLE" value="N" />
+				<Attribute name="VPP_$_EST" value="0" />
+				<Attribute name="VPP_%_EST" value="0" />
+				<Attribute name="NUMBER_OF_RATINGS" value="3" />
+				<Attribute name="ITEM_WEIGHT" value="0" />
+				<Attribute name="111611" value="0" />
+				<Attribute name="PRODUCT_PRICECODE" value="1" />
+				<Attribute name="110447" value="Outdoor" />
+				<Attribute name="110407" value="Women" />
+				<Attribute name="COMFORT" value="1" />
+				<Attribute name="DIVISION" value="Apparel - Accessories" />
+				<Attribute name="LIST_RANGE_MIN" value="24.99" />
+				<Attribute name="IAC_ID" value="Womens Boots" />
+				<Attribute name="BATTERIES_INCLUDED" value="N" />
+				<Attribute name="TITLE" value="Wmn Short Rain Boot Zebra" />
+				<Attribute name="MERCH_CLASS" value="314" />
+				<Attribute name="SOI_PRICE_Display" value="Y" />
+				<Attribute name="IS_FRAGILE" value="N" />
+				<Attribute name="SEASONAL_FLAG" value="N" />
+				<Attribute name="IMPORT_DESIGNATION" value="IM" />
+				<Attribute name="110296" value="Pull on" />
+				<Attribute name="BOPO_FLAG" value="N" />
+				<Attribute name="LIST_RANGE_MAX" value="24.99" />
+				<Attribute name="INITIAL_VPP_$_EST" value="0" />
+				<Attribute name="HAS_PROP65" value="N" />
+				<Attribute name="INITIAL_VPP_%_EST" value="0" />
+				<Attribute name="LAUNCH_PUBLISH_FLAG" value="Y" />
+				<Attribute name="MAX_ORDER_QTY" value="0" />
+				<Attribute name="SHIP_TO_RESTRICTION"
+					value="Guam,Northern Mariana Islands,American Samoa,Virgin Islands, U.S.,United States Minor Outlying Islands" />
+				<Attribute name="IAC_GROUP" value="APPAREL" />
+				<Attribute name="OFFER_RANGE_MIN" value="18" />
+				<Attribute name="BUYERSHIP" value="JAS" />
+				<Attribute name="RETURN_METHOD"
+					value="This item can be returned to any Target store or Target.com." />
+				<Attribute name="VALUE" value="2" />
+				<Attribute name="BACKORDER_TYPE" value="Not Allowed" />
+				<Attribute name="IAC_SUBGROUP" value="SHOES" />
+				<Attribute name="GIFT_WRAPABLE" value="Y" />
+				<Attribute name="IS_FOOD" value="N" />
+				<Attribute name="MERCHANT_PUBLISH_FLAG" value="Y" />
+				<Attribute name="ITEM_HEIGHT" value="0" />
+				<Attribute name="IS_HAZMAT" value="N" />
+				<Attribute name="ASIN" value="B004WKCNC2" />
+				<Attribute name="ASSEMBLY_REQUIRED" value="N" />
+				<Attribute name="MERCH_SUBCLASS" value="Z Open                        " />
+				<Attribute name="111590" value="Approximately 13.0 inches" />
+				<Attribute name="CIRCULAR_PUBLISH_FLAG" value="Y" />
+				<Attribute name="111591" value="Approximately 9.0 inches" />
+				<Attribute name="111592" value="Mid calf" />
+				<Attribute name="111593"
+					value="Tagless footbed,Cushioned insole,Pull loops,Adjustable strap" />
+				<Attribute name="BEDDING" value="N" />
+				<Attribute name="OFFER_RANGE_MAX" value="18" />
+				<Attribute name="111596" value="Pull on" />
+				<Attribute name="CONSOLIDATED_RATING" value="3.5" />
+				<Attribute name="SIGN_REQUIRED" value="N" />
+				<Attribute name="111597" value="Rain Boot" />
+				<Attribute name="111598" value="Textile" />
+				<Attribute name="RELATION_ITEM_TYPE" value="Variation Parent" />
+				<Attribute name="111599" value="Fabric" />
+				<Attribute name="100104" value="Round toe" />
+				<Attribute name="MAP_PRICE" value="N" />
+				<Attribute name="IAC_DELETE_FLAG" value="yes" />
+				<Attribute name="NO_OF_BOXES" value="0" />
+				<Attribute name="WINDOW" value="N" />
+				<Attribute name="EDIT_ADHOC_BULLETS" value="N" />
+				<Attribute name="ITEM_WIDTH" value="0" />
+			</ItemAttributes>
+		</Item>
+		<Item>
+			<ASIN>14039451</ASIN>
+			<TCIN>14039451</TCIN>
+			<SKU>14039451</SKU>
+			<DPCI>-</DPCI>
+			<Department>-</Department>
+			<ClassId>-</ClassId>
+			<ItemId>-</ItemId>
+			<Webclass>Junior's/Go Int'l</Webclass>
+			<DetailPageURL>http://www.target.com/p/mossimo-supply-co-juniors-shawl-collar-cardigan-assorted-colors/-/A-14039451
+			</DetailPageURL>
+			<SmallImage>
+				<URL>http://Img2.targetimg2.com/wcsstore/TargetSAS//img/p/14/03/14039451_75x75.jpg
+				</URL>
+				<Height Units="pixels">75</Height>
+				<Width Units="pixels">75</Width>
+			</SmallImage>
+			<LargeImage>
+				<URL>http://Img2.targetimg2.com/wcsstore/TargetSAS//img/p/14/03/14039451.jpg
+				</URL>
+				<Height Units="pixels">500</Height>
+				<Width Units="pixels">500</Width>
+			</LargeImage>
+			<ImageSets>
+				<ImageSet Category="primary">
+					<SmallImage>
+						<URL>http://Img2.targetimg2.com/wcsstore/TargetSAS//img/p/14/03/14039451_75x75.jpg
+						</URL>
+						<Height Units="pixels">75</Height>
+						<Width Units="pixels">75</Width>
+					</SmallImage>
+					<ThumbnailImage>
+						<URL>http://Img2.targetimg2.com/wcsstore/TargetSAS//img/p/14/03/14039451_75x75.jpg
+						</URL>
+						<Height Units="pixels">75</Height>
+						<Width Units="pixels">75</Width>
+					</ThumbnailImage>
+					<LargeImage>
+						<URL>http://Img2.targetimg2.com/wcsstore/TargetSAS//img/p/14/03/14039451.jpg
+						</URL>
+						<Height Units="pixels">500</Height>
+						<Width Units="pixels">500</Width>
+					</LargeImage>
+				</ImageSet>
+				<ImageSet Category="variant">
+					<AlternateImages>
+						<AlternateImageCount>3</AlternateImageCount>
+						<AlternateImage seqno="0">http://Img2.targetimg2.com/wcsstore/TargetSAS//img/p/14/03/14039451_50x50.jpg
+						</AlternateImage>
+						<AlternateImage seqno="2">http://Img2.targetimg2.com/wcsstore/TargetSAS//img/p/14/03/14039451_Alt02_120705223000_50x50.jpg
+						</AlternateImage>
+						<AlternateImage seqno="3">http://Img2.targetimg2.com/wcsstore/TargetSAS//img/p/14/03/14039451_Alt03_120705223000_50x50.jpg
+						</AlternateImage>
+					</AlternateImages>
+				</ImageSet>
+			</ImageSets>
+			<ItemAttributes>
+				<Title>Mossimo Supply Co. Juniors Shawl Collar Cardigan - Assorted
+					Colors</Title>
+				<PackageDimensions>
+					<Height Units="INH"></Height>
+					<Length Units="INH"></Length>
+					<Weight Units="LBR"></Weight>
+					<Width Units="INH"></Width>
+				</PackageDimensions>
+				<BatteriesIncluded>N</BatteriesIncluded>
+				<BatteriesRequired>N</BatteriesRequired>
+				<CatalogNumber>204787905</CatalogNumber>
+				<ReturnMethod>This item can be returned to any Target store or
+					Target.com.</ReturnMethod>
+				<POBoxShippingExcluded>United States Minor Outlying Islands,American
+					Samoa,Guam,Virgin Islands, U.S.,Northern Mariana Islands
+				</POBoxShippingExcluded>
+				<Attribute name="SIZE_CHART" value="N" />
+				<Attribute name="107703" value="Tumble dry low,Machine wash, cold" />
+				<Attribute name="COUNTRY_SOURCE" value="CHINA" />
+				<Attribute name="MANUFACTURING_BRAND" value="MOSSIMO SUPPLY CO." />
+				<Attribute name="110435" value="100" />
+				<Attribute name="EDIT_LONGCOPY" value="N" />
+				<Attribute name="STYLE" value="5" />
+				<Attribute name="PO_BOX_PROHIBITED" value="Y" />
+				<Attribute name="EXPRESS_DELIVERY_ELIGIBLE" value="N" />
+				<Attribute name="BATTERIES_REQUIRED" value="N" />
+				<Attribute name="KEY_ITEM" value="N" />
+				<Attribute name="TRUE_TO_SIZE" value="5" />
+				<Attribute name="HAS_WARRANTY" value="N" />
+				<Attribute name="WHENEVER_SHIPPING_ELIGIBLE" value="N" />
+				<Attribute name="VPP_$_EST" value="0" />
+				<Attribute name="VPP_%_EST" value="0" />
+				<Attribute name="110444" value="Sweater" />
+				<Attribute name="NUMBER_OF_RATINGS" value="2" />
+				<Attribute name="110445" value="Cardigan sweater" />
+				<Attribute name="110401" value="Finished" />
+				<Attribute name="110446" value="V neck" />
+				<Attribute name="PRODUCT_PRICECODE" value="1" />
+				<Attribute name="110447" value="Casual" />
+				<Attribute name="110449" value="2 Front" />
+				<Attribute name="110407" value="Junior" />
+				<Attribute name="110408" value="Long sleeve" />
+				<Attribute name="DIVISION" value="Apparel - Accessories" />
+				<Attribute name="LIST_RANGE_MIN" value="19.99" />
+				<Attribute name="IAC_ID" value="Womens Sweaters" />
+				<Attribute name="BATTERIES_INCLUDED" value="N" />
+				<Attribute name="MERCH_CLASS" value="312" />
+				<Attribute name="SOI_PRICE_Display" value="Y" />
+				<Attribute name="IS_FRAGILE" value="N" />
+				<Attribute name="110293" value="Shawl" />
+				<Attribute name="110294" value="Ribbed" />
+				<Attribute name="IMPORT_DESIGNATION" value="IM" />
+				<Attribute name="110296" value="Button Front" />
+				<Attribute name="107888" value="Solid" />
+				<Attribute name="110298" value="Casual Fit" />
+				<Attribute name="LIST_RANGE_MAX" value="19.99" />
+				<Attribute name="HAS_PROP65" value="N" />
+				<Attribute name="LAUNCH_PUBLISH_FLAG" value="Y" />
+				<Attribute name="MAX_ORDER_QTY" value="0" />
+				<Attribute name="IAC_GROUP" value="APPAREL" />
+				<Attribute name="SHIP_TO_RESTRICTION"
+					value="United States Minor Outlying Islands,American Samoa,Guam,Virgin Islands, U.S.,Northern Mariana Islands" />
+				<Attribute name="OFFER_RANGE_MIN" value="10" />
+				<Attribute name="BUYERSHIP" value="RTW" />
+				<Attribute name="RETURN_METHOD"
+					value="This item can be returned to any Target store or Target.com." />
+				<Attribute name="VALUE" value="5" />
+				<Attribute name="BACKORDER_TYPE" value="Not Allowed" />
+				<Attribute name="GIFT_WRAPABLE" value="Y" />
+				<Attribute name="IAC_SUBGROUP" value="WOMEN" />
+				<Attribute name="IS_FOOD" value="N" />
+				<Attribute name="MERCHANT_PUBLISH_FLAG" value="Y" />
+				<Attribute name="IS_HAZMAT" value="N" />
+				<Attribute name="ASIN" value="14039451" />
+				<Attribute name="ASSEMBLY_REQUIRED" value="N" />
+				<Attribute name="MERCH_SUBCLASS" value="Z Open                        " />
+				<Attribute name="CIRCULAR_PUBLISH_FLAG" value="Y" />
+				<Attribute name="BEDDING" value="N" />
+				<Attribute name="OFFER_RANGE_MAX" value="10" />
+				<Attribute name="CONSOLIDATED_RATING" value="4.5" />
+				<Attribute name="SIGN_REQUIRED" value="N" />
+				<Attribute name="133454" value="At waist" />
+				<Attribute name="RELATION_ITEM_TYPE" value="Variation Parent" />
+				<Attribute name="MAP_PRICE" value="N" />
+				<Attribute name="110428" value="Cotton" />
+				<Attribute name="NO_OF_BOXES" value="0" />
+				<Attribute name="WINDOW" value="N" />
+				<Attribute name="EDIT_ADHOC_BULLETS" value="N" />
+			</ItemAttributes>
+		</Item>
+		<Item>
+			<ASIN>14123951</ASIN>
+			<TCIN>14123951</TCIN>
+			<SKU>14123951</SKU>
+			<DPCI>-</DPCI>
+			<Department>-</Department>
+			<ClassId>-</ClassId>
+			<ItemId>-</ItemId>
+			<Webclass>Missy/MEC/OS</Webclass>
+			<DetailPageURL>http://www.target.com/p/mossimo-women-s-sleeveless-dress-w-faux-leather-trim/-/A-14123951
+			</DetailPageURL>
+			<SmallImage>
+				<URL>http://Img3.targetimg3.com/wcsstore/TargetSAS//img/p/14/12/14123951_120907003000_75x75.jpg
+				</URL>
+				<Height Units="pixels">75</Height>
+				<Width Units="pixels">75</Width>
+			</SmallImage>
+			<LargeImage>
+				<URL>http://Img3.targetimg3.com/wcsstore/TargetSAS//img/p/14/12/14123951_120907003000.jpg
+				</URL>
+				<Height Units="pixels">500</Height>
+				<Width Units="pixels">500</Width>
+			</LargeImage>
+			<ImageSets>
+				<ImageSet Category="primary">
+					<SmallImage>
+						<URL>http://Img3.targetimg3.com/wcsstore/TargetSAS//img/p/14/12/14123951_120907003000_75x75.jpg
+						</URL>
+						<Height Units="pixels">75</Height>
+						<Width Units="pixels">75</Width>
+					</SmallImage>
+					<ThumbnailImage>
+						<URL>http://Img3.targetimg3.com/wcsstore/TargetSAS//img/p/14/12/14123951_120907003000_75x75.jpg
+						</URL>
+						<Height Units="pixels">75</Height>
+						<Width Units="pixels">75</Width>
+					</ThumbnailImage>
+					<LargeImage>
+						<URL>http://Img3.targetimg3.com/wcsstore/TargetSAS//img/p/14/12/14123951_120907003000.jpg
+						</URL>
+						<Height Units="pixels">500</Height>
+						<Width Units="pixels">500</Width>
+					</LargeImage>
+				</ImageSet>
+				<ImageSet Category="variant">
+					<AlternateImages>
+						<AlternateImageCount>3</AlternateImageCount>
+						<AlternateImage seqno="0">http://Img3.targetimg3.com/wcsstore/TargetSAS//img/p/14/12/14123951_Alt02_120927143000_50x50.jpg
+						</AlternateImage>
+						<AlternateImage seqno="0">http://Img3.targetimg3.com/wcsstore/TargetSAS//img/p/14/12/14123951_120907003000_50x50.jpg
+						</AlternateImage>
+						<AlternateImage seqno="3">http://Img3.targetimg3.com/wcsstore/TargetSAS//img/p/14/12/14123951_Alt03_120927143000_50x50.jpg
+						</AlternateImage>
+					</AlternateImages>
+				</ImageSet>
+			</ImageSets>
+			<ItemAttributes>
+				<Title>MossimoÂ® Women's Sleeveless Dress w/ Faux Leather Trim
+				</Title>
+				<PackageDimensions>
+					<Height Units="INH"></Height>
+					<Length Units="INH"></Length>
+					<Weight Units="LBR"></Weight>
+					<Width Units="INH"></Width>
+				</PackageDimensions>
+				<BatteriesIncluded>N</BatteriesIncluded>
+				<BatteriesRequired>N</BatteriesRequired>
+				<CatalogNumber>204950729</CatalogNumber>
+				<ReturnMethod>This item can be returned to any Target store or
+					Target.com.</ReturnMethod>
+				<POBoxShippingExcluded>American Samoa,Guam,Virgin Islands,
+					U.S.,United States Minor Outlying Islands,Northern Mariana Islands
+				</POBoxShippingExcluded>
+				<Attribute name="SIZE_CHART" value="N" />
+				<Attribute name="110430" value="Spandex" />
+				<Attribute name="107703" value="Machine wash, cold,Tumble dry low" />
+				<Attribute name="COUNTRY_SOURCE" value="INDONESIA" />
+				<Attribute name="110435" value="76" />
+				<Attribute name="EDIT_LONGCOPY" value="N" />
+				<Attribute name="110436" value="20" />
+				<Attribute name="110437" value="4" />
+				<Attribute name="PO_BOX_PROHIBITED" value="Y" />
+				<Attribute name="EXPRESS_DELIVERY_ELIGIBLE" value="N" />
+				<Attribute name="BATTERIES_REQUIRED" value="N" />
+				<Attribute name="KEY_ITEM" value="N" />
+				<Attribute name="HAS_WARRANTY" value="N" />
+				<Attribute name="WHENEVER_SHIPPING_ELIGIBLE" value="N" />
+				<Attribute name="110200" value="Contrast Piping" />
+				<Attribute name="VPP_$_EST" value="0" />
+				<Attribute name="VPP_%_EST" value="0" />
+				<Attribute name="110444" value="Dress" />
+				<Attribute name="110400" value="Above knee" />
+				<Attribute name="NUMBER_OF_RATINGS" value="2" />
+				<Attribute name="110445" value="Knit Dress" />
+				<Attribute name="110401" value="Finished" />
+				<Attribute name="110402" value="Opaque" />
+				<Attribute name="110446" value="Scoop" />
+				<Attribute name="PRODUCT_PRICECODE" value="1" />
+				<Attribute name="110447" value="Wear to Work" />
+				<Attribute name="110407" value="Women" />
+				<Attribute name="110408" value="Sleeveless" />
+				<Attribute name="110409" value="Ponte" />
+				<Attribute name="DIVISION" value="Apparel - Accessories" />
+				<Attribute name="LIST_RANGE_MIN" value="34.99" />
+				<Attribute name="IAC_ID" value="Womens Dresses" />
+				<Attribute name="BATTERIES_INCLUDED" value="N" />
+				<Attribute name="MERCH_CLASS" value="318" />
+				<Attribute name="SOI_PRICE_Display" value="Y" />
+				<Attribute name="IS_FRAGILE" value="N" />
+				<Attribute name="IMPORT_DESIGNATION" value="IM" />
+				<Attribute name="110296" value="Zip Back" />
+				<Attribute name="BOPO_FLAG" value="N" />
+				<Attribute name="107888" value="Solid" />
+				<Attribute name="110298" value="Contemporary Fit" />
+				<Attribute name="LIST_RANGE_MAX" value="34.99" />
+				<Attribute name="HAS_PROP65" value="N" />
+				<Attribute name="LAUNCH_PUBLISH_FLAG" value="Y" />
+				<Attribute name="MAX_ORDER_QTY" value="0" />
+				<Attribute name="IAC_GROUP" value="APPAREL" />
+				<Attribute name="SHIP_TO_RESTRICTION"
+					value="American Samoa,Guam,Virgin Islands, U.S.,United States Minor Outlying Islands,Northern Mariana Islands" />
+				<Attribute name="OFFER_RANGE_MIN" value="20" />
+				<Attribute name="BUYERSHIP" value="RTW" />
+				<Attribute name="RETURN_METHOD"
+					value="This item can be returned to any Target store or Target.com." />
+				<Attribute name="BACKORDER_TYPE" value="Not Allowed" />
+				<Attribute name="IS_FOOD" value="N" />
+				<Attribute name="GIFT_WRAPABLE" value="Y" />
+				<Attribute name="IAC_SUBGROUP" value="WOMEN" />
+				<Attribute name="MERCHANT_PUBLISH_FLAG" value="Y" />
+				<Attribute name="IS_HAZMAT" value="N" />
+				<Attribute name="ASIN" value="14123951" />
+				<Attribute name="MERCH_SUBCLASS" value="Z Open                        " />
+				<Attribute name="ASSEMBLY_REQUIRED" value="N" />
+				<Attribute name="CIRCULAR_PUBLISH_FLAG" value="Y" />
+				<Attribute name="OFFER_RANGE_MAX" value="20" />
+				<Attribute name="BEDDING" value="N" />
+				<Attribute name="CONSOLIDATED_RATING" value="4.5" />
+				<Attribute name="SIGN_REQUIRED" value="N" />
+				<Attribute name="RELATION_ITEM_TYPE" value="Variation Parent" />
+				<Attribute name="MAP_PRICE" value="N" />
+				<Attribute name="110428" value="Polyester" />
+				<Attribute name="110429" value="Rayon" />
+				<Attribute name="NO_OF_BOXES" value="0" />
+				<Attribute name="WINDOW" value="N" />
+				<Attribute name="HAS_RECALL" value="N" />
+				<Attribute name="EDIT_ADHOC_BULLETS" value="N" />
+			</ItemAttributes>
+		</Item>
+		<Item>
+			<ASIN>14227374</ASIN>
+			<TCIN>14227374</TCIN>
+			<SKU>14227374</SKU>
+			<DPCI>-</DPCI>
+			<Department>-</Department>
+			<ClassId>-</ClassId>
+			<ItemId>-</ItemId>
+			<Webclass>Missy/MEC/OS</Webclass>
+			<DetailPageURL>http://www.target.com/p/merona-women-s-easy-care-pintucked-dress-prints/-/A-14227374
+			</DetailPageURL>
+			<SmallImage>
+				<URL>http://Img1.targetimg1.com/wcsstore/TargetSAS//img/p/14/22/14227374_121019163000_75x75.jpg
+				</URL>
+				<Height Units="pixels">75</Height>
+				<Width Units="pixels">75</Width>
+			</SmallImage>
+			<LargeImage>
+				<URL>http://Img1.targetimg1.com/wcsstore/TargetSAS//img/p/14/22/14227374_121019163000.jpg
+				</URL>
+				<Height Units="pixels">500</Height>
+				<Width Units="pixels">500</Width>
+			</LargeImage>
+			<ImageSets>
+				<ImageSet Category="primary">
+					<SmallImage>
+						<URL>http://Img1.targetimg1.com/wcsstore/TargetSAS//img/p/14/22/14227374_121019163000_75x75.jpg
+						</URL>
+						<Height Units="pixels">75</Height>
+						<Width Units="pixels">75</Width>
+					</SmallImage>
+					<ThumbnailImage>
+						<URL>http://Img1.targetimg1.com/wcsstore/TargetSAS//img/p/14/22/14227374_121019163000_75x75.jpg
+						</URL>
+						<Height Units="pixels">75</Height>
+						<Width Units="pixels">75</Width>
+					</ThumbnailImage>
+					<LargeImage>
+						<URL>http://Img1.targetimg1.com/wcsstore/TargetSAS//img/p/14/22/14227374_121019163000.jpg
+						</URL>
+						<Height Units="pixels">500</Height>
+						<Width Units="pixels">500</Width>
+					</LargeImage>
+				</ImageSet>
+				<ImageSet Category="variant">
+					<AlternateImages>
+						<AlternateImageCount>3</AlternateImageCount>
+						<AlternateImage seqno="0">http://Img1.targetimg1.com/wcsstore/TargetSAS//img/p/14/22/14227374_Alt02_121010123000_50x50.jpg
+						</AlternateImage>
+						<AlternateImage seqno="0">http://Img1.targetimg1.com/wcsstore/TargetSAS//img/p/14/22/14227374_121019163000_50x50.jpg
+						</AlternateImage>
+						<AlternateImage seqno="3">http://Img1.targetimg1.com/wcsstore/TargetSAS//img/p/14/22/14227374_Alt03_121010123000_50x50.jpg
+						</AlternateImage>
+					</AlternateImages>
+				</ImageSet>
+			</ImageSets>
+			<ItemAttributes>
+				<Title>MeronaÂ® Women's Easy Care Pintucked Dress - Prints</Title>
+				<PackageDimensions>
+					<Height Units="INH"></Height>
+					<Length Units="INH"></Length>
+					<Weight Units="LBR"></Weight>
+					<Width Units="INH"></Width>
+				</PackageDimensions>
+				<BatteriesIncluded>N</BatteriesIncluded>
+				<BatteriesRequired>N</BatteriesRequired>
+				<CatalogNumber>205197753</CatalogNumber>
+				<ReturnMethod>This item can be returned to any Target store or
+					Target.com.</ReturnMethod>
+				<Attribute name="SIZE_CHART" value="Y" />
+				<Attribute name="107703" value="Machine wash, cold,Tumble dry low" />
+				<Attribute name="COUNTRY_SOURCE" value="CHINA" />
+				<Attribute name="MANUFACTURING_BRAND" value="MERONA" />
+				<Attribute name="110435" value="100" />
+				<Attribute name="EDIT_LONGCOPY" value="N" />
+				<Attribute name="PO_BOX_PROHIBITED" value="Y" />
+				<Attribute name="EXPRESS_DELIVERY_ELIGIBLE" value="Y" />
+				<Attribute name="BATTERIES_REQUIRED" value="N" />
+				<Attribute name="KEY_ITEM" value="N" />
+				<Attribute name="HAS_WARRANTY" value="N" />
+				<Attribute name="WHENEVER_SHIPPING_ELIGIBLE" value="N" />
+				<Attribute name="110200" value="Pintucked" />
+				<Attribute name="VPP_$_EST" value="0" />
+				<Attribute name="VPP_%_EST" value="0" />
+				<Attribute name="110444" value="Dress" />
+				<Attribute name="110400" value="Above knee" />
+				<Attribute name="110445" value="Shirt dress" />
+				<Attribute name="110401" value="Finished" />
+				<Attribute name="110402" value="Opaque" />
+				<Attribute name="110446" value="Collared" />
+				<Attribute name="PRODUCT_PRICECODE" value="1" />
+				<Attribute name="110447" value="Casual" />
+				<Attribute name="110407" value="Women" />
+				<Attribute name="110408" value="Long sleeve" />
+				<Attribute name="DIVISION" value="Apparel - Accessories" />
+				<Attribute name="LIST_RANGE_MIN" value="39.99" />
+				<Attribute name="IAC_ID" value="Womens Dresses" />
+				<Attribute name="BATTERIES_INCLUDED" value="N" />
+				<Attribute name="MERCH_CLASS" value="318" />
+				<Attribute name="SOI_PRICE_Display" value="Y" />
+				<Attribute name="IS_FRAGILE" value="N" />
+				<Attribute name="110293" value="Stand-Up" />
+				<Attribute name="110294" value="Buttoned" />
+				<Attribute name="IMPORT_DESIGNATION" value="IM" />
+				<Attribute name="110296" value="Button" />
+				<Attribute name="107888" value="Animal Print,Floral" />
+				<Attribute name="110451" value="Elastic Band,Front darts" />
+				<Attribute name="110297" value="Lightweight Fabric Construction" />
+				<Attribute name="LIST_RANGE_MAX" value="39.99" />
+				<Attribute name="110298" value="Classic Fit" />
+				<Attribute name="102115" value="A line skirt" />
+				<Attribute name="HAS_PROP65" value="N" />
+				<Attribute name="LAUNCH_PUBLISH_FLAG" value="Y" />
+				<Attribute name="MAX_ORDER_QTY" value="0" />
+				<Attribute name="IAC_GROUP" value="APPAREL" />
+				<Attribute name="OFFER_RANGE_MIN" value="22" />
+				<Attribute name="BUYERSHIP" value="RTW" />
+				<Attribute name="RETURN_METHOD"
+					value="This item can be returned to any Target store or Target.com." />
+				<Attribute name="BACKORDER_TYPE" value="Not Allowed" />
+				<Attribute name="IS_FOOD" value="N" />
+				<Attribute name="GIFT_WRAPABLE" value="Y" />
+				<Attribute name="IAC_SUBGROUP" value="WOMEN" />
+				<Attribute name="MERCHANT_PUBLISH_FLAG" value="Y" />
+				<Attribute name="IS_HAZMAT" value="N" />
+				<Attribute name="ASIN" value="14227374" />
+				<Attribute name="MERCH_SUBCLASS" value="Z Open                        " />
+				<Attribute name="ASSEMBLY_REQUIRED" value="N" />
+				<Attribute name="CIRCULAR_PUBLISH_FLAG" value="Y" />
+				<Attribute name="OFFER_RANGE_MAX" value="22" />
+				<Attribute name="BEDDING" value="N" />
+				<Attribute name="SIGN_REQUIRED" value="N" />
+				<Attribute name="RELATION_ITEM_TYPE" value="Variation Parent" />
+				<Attribute name="MAP_PRICE" value="N" />
+				<Attribute name="110428" value="Polyester" />
+				<Attribute name="IAC_DELETE_FLAG" value="yes" />
+				<Attribute name="NO_OF_BOXES" value="0" />
+				<Attribute name="WINDOW" value="N" />
+				<Attribute name="EDIT_ADHOC_BULLETS" value="N" />
+			</ItemAttributes>
+		</Item>
+		<Item>
+			<ASIN>14204535</ASIN>
+			<TCIN>14204535</TCIN>
+			<SKU>14204535</SKU>
+			<DPCI>-</DPCI>
+			<Department>-</Department>
+			<ClassId>-</ClassId>
+			<ItemId>-</ItemId>
+			<Webclass>Special Sizes</Webclass>
+			<DetailPageURL>http://www.target.com/p/merona-women-s-plus-size-slimming-options-wrap-dress-assorted-colors/-/A-14204535
+			</DetailPageURL>
+			<SmallImage>
+				<URL>http://Img2.targetimg2.com/wcsstore/TargetSAS//img/p/14/20/14204535_120814223000_75x75.jpg
+				</URL>
+				<Height Units="pixels">75</Height>
+				<Width Units="pixels">75</Width>
+			</SmallImage>
+			<LargeImage>
+				<URL>http://Img2.targetimg2.com/wcsstore/TargetSAS//img/p/14/20/14204535_120814223000.jpg
+				</URL>
+				<Height Units="pixels">500</Height>
+				<Width Units="pixels">500</Width>
+			</LargeImage>
+			<ImageSets>
+				<ImageSet Category="primary">
+					<SmallImage>
+						<URL>http://Img2.targetimg2.com/wcsstore/TargetSAS//img/p/14/20/14204535_120814223000_75x75.jpg
+						</URL>
+						<Height Units="pixels">75</Height>
+						<Width Units="pixels">75</Width>
+					</SmallImage>
+					<ThumbnailImage>
+						<URL>http://Img2.targetimg2.com/wcsstore/TargetSAS//img/p/14/20/14204535_120814223000_75x75.jpg
+						</URL>
+						<Height Units="pixels">75</Height>
+						<Width Units="pixels">75</Width>
+					</ThumbnailImage>
+					<LargeImage>
+						<URL>http://Img2.targetimg2.com/wcsstore/TargetSAS//img/p/14/20/14204535_120814223000.jpg
+						</URL>
+						<Height Units="pixels">500</Height>
+						<Width Units="pixels">500</Width>
+					</LargeImage>
+				</ImageSet>
+				<ImageSet Category="variant">
+					<AlternateImages>
+						<AlternateImageCount>1</AlternateImageCount>
+						<AlternateImage seqno="0">http://Img2.targetimg2.com/wcsstore/TargetSAS//img/p/14/20/14204535_120814223000_50x50.jpg
+						</AlternateImage>
+					</AlternateImages>
+				</ImageSet>
+			</ImageSets>
+			<ItemAttributes>
+				<Title>MeronaÂ® Women's Plus-Size Slimming Options Wrap Dress -
+					Assorted Colors</Title>
+				<PackageDimensions>
+					<Height Units="INH"></Height>
+					<Length Units="INH"></Length>
+					<Weight Units="LBR"></Weight>
+					<Width Units="INH"></Width>
+				</PackageDimensions>
+				<BatteriesIncluded>N</BatteriesIncluded>
+				<BatteriesRequired>N</BatteriesRequired>
+				<CatalogNumber>205125381</CatalogNumber>
+				<ReturnMethod>This item can be returned to any Target store or
+					Target.com.</ReturnMethod>
+				<Attribute name="SIZE_CHART" value="Y" />
+				<Attribute name="107703" value="Dry flat,Machine wash, cold" />
+				<Attribute name="110433" value="Polyester" />
+				<Attribute name="COUNTRY_SOURCE" value="CHINA" />
+				<Attribute name="MANUFACTURING_BRAND" value="MERONA" />
+				<Attribute name="110435" value="95" />
+				<Attribute name="EDIT_LONGCOPY" value="N" />
+				<Attribute name="110436" value="5" />
+				<Attribute name="110439" value="100" />
+				<Attribute name="PO_BOX_PROHIBITED" value="Y" />
+				<Attribute name="EXPRESS_DELIVERY_ELIGIBLE" value="N" />
+				<Attribute name="BATTERIES_REQUIRED" value="N" />
+				<Attribute name="KEY_ITEM" value="N" />
+				<Attribute name="HAS_WARRANTY" value="N" />
+				<Attribute name="WHENEVER_SHIPPING_ELIGIBLE" value="N" />
+				<Attribute name="110200" value="Ruching,Shirred" />
+				<Attribute name="VPP_$_EST" value="0" />
+				<Attribute name="VPP_%_EST" value="0" />
+				<Attribute name="110444" value="Dress" />
+				<Attribute name="110400" value="At knee" />
+				<Attribute name="110445" value="Knit Dress" />
+				<Attribute name="110401" value="Finished" />
+				<Attribute name="110402" value="Opaque" />
+				<Attribute name="110446" value="V neck" />
+				<Attribute name="PRODUCT_PRICECODE" value="1" />
+				<Attribute name="110447" value="Wear to Work" />
+				<Attribute name="110407" value="Plus" />
+				<Attribute name="110408" value="Sleeveless" />
+				<Attribute name="110409" value="Jersey" />
+				<Attribute name="DIVISION" value="Apparel - Accessories" />
+				<Attribute name="LIST_RANGE_MIN" value="39.99" />
+				<Attribute name="IAC_ID" value="Womens Dresses" />
+				<Attribute name="BATTERIES_INCLUDED" value="N" />
+				<Attribute name="MERCH_CLASS" value="316" />
+				<Attribute name="SOI_PRICE_Display" value="Y" />
+				<Attribute name="IS_FRAGILE" value="N" />
+				<Attribute name="IMPORT_DESIGNATION" value="IM" />
+				<Attribute name="112550" value="Solid" />
+				<Attribute name="110296" value="Pullover" />
+				<Attribute name="BOPO_FLAG" value="N" />
+				<Attribute name="107888" value="Solid" />
+				<Attribute name="110451"
+					value="Built-in Slimming Layer,Pleated Waist,Fully Lined" />
+				<Attribute name="110297" value="Midweight Fabric Construction" />
+				<Attribute name="110298" value="Classic Fit" />
+				<Attribute name="LIST_RANGE_MAX" value="39.99" />
+				<Attribute name="102115" value="Straight Skirt" />
+				<Attribute name="HAS_PROP65" value="N" />
+				<Attribute name="LAUNCH_PUBLISH_FLAG" value="Y" />
+				<Attribute name="MAX_ORDER_QTY" value="0" />
+				<Attribute name="IAC_GROUP" value="APPAREL" />
+				<Attribute name="OFFER_RANGE_MIN" value="25" />
+				<Attribute name="BUYERSHIP" value="RTW" />
+				<Attribute name="RETURN_METHOD"
+					value="This item can be returned to any Target store or Target.com." />
+				<Attribute name="BACKORDER_TYPE" value="Not Allowed" />
+				<Attribute name="IS_FOOD" value="N" />
+				<Attribute name="GIFT_WRAPABLE" value="Y" />
+				<Attribute name="IAC_SUBGROUP" value="WOMEN" />
+				<Attribute name="MERCHANT_PUBLISH_FLAG" value="Y" />
+				<Attribute name="IS_HAZMAT" value="N" />
+				<Attribute name="ASIN" value="14204535" />
+				<Attribute name="MERCH_SUBCLASS" value="Z Open                        " />
+				<Attribute name="ASSEMBLY_REQUIRED" value="N" />
+				<Attribute name="CIRCULAR_PUBLISH_FLAG" value="Y" />
+				<Attribute name="OFFER_RANGE_MAX" value="25" />
+				<Attribute name="BEDDING" value="N" />
+				<Attribute name="SIGN_REQUIRED" value="N" />
+				<Attribute name="RELATION_ITEM_TYPE" value="Variation Parent" />
+				<Attribute name="MAP_PRICE" value="N" />
+				<Attribute name="110428" value="Polyester" />
+				<Attribute name="110429" value="Spandex" />
+				<Attribute name="NO_OF_BOXES" value="0" />
+				<Attribute name="WINDOW" value="N" />
+				<Attribute name="HAS_RECALL" value="N" />
+				<Attribute name="EDIT_ADHOC_BULLETS" value="N" />
+			</ItemAttributes>
+		</Item>
+		<Item>
+			<ASIN>14172817</ASIN>
+			<TCIN>14172817</TCIN>
+			<SKU>14172817</SKU>
+			<DPCI>-</DPCI>
+			<Department>-</Department>
+			<ClassId>-</ClassId>
+			<ItemId>-</ItemId>
+			<Webclass>Special Sizes</Webclass>
+			<DetailPageURL>http://www.target.com/p/mossimo-womens-plus-size-short-sleeve-pocket-ponte-dress-assorted-colors/-/A-14172817
+			</DetailPageURL>
+			<SmallImage>
+				<URL>http://Img2.targetimg2.com/wcsstore/TargetSAS//img/p/14/17/14172817_120710063000_75x75.jpg
+				</URL>
+				<Height Units="pixels">75</Height>
+				<Width Units="pixels">75</Width>
+			</SmallImage>
+			<LargeImage>
+				<URL>http://Img2.targetimg2.com/wcsstore/TargetSAS//img/p/14/17/14172817_120710063000.jpg
+				</URL>
+				<Height Units="pixels">500</Height>
+				<Width Units="pixels">500</Width>
+			</LargeImage>
+			<ImageSets>
+				<ImageSet Category="primary">
+					<SmallImage>
+						<URL>http://Img2.targetimg2.com/wcsstore/TargetSAS//img/p/14/17/14172817_120710063000_75x75.jpg
+						</URL>
+						<Height Units="pixels">75</Height>
+						<Width Units="pixels">75</Width>
+					</SmallImage>
+					<ThumbnailImage>
+						<URL>http://Img2.targetimg2.com/wcsstore/TargetSAS//img/p/14/17/14172817_120710063000_75x75.jpg
+						</URL>
+						<Height Units="pixels">75</Height>
+						<Width Units="pixels">75</Width>
+					</ThumbnailImage>
+					<LargeImage>
+						<URL>http://Img2.targetimg2.com/wcsstore/TargetSAS//img/p/14/17/14172817_120710063000.jpg
+						</URL>
+						<Height Units="pixels">500</Height>
+						<Width Units="pixels">500</Width>
+					</LargeImage>
+				</ImageSet>
+				<ImageSet Category="variant">
+					<AlternateImages>
+						<AlternateImageCount>2</AlternateImageCount>
+						<AlternateImage seqno="0">http://Img2.targetimg2.com/wcsstore/TargetSAS//img/p/14/17/14172817_120710063000_50x50.jpg
+						</AlternateImage>
+						<AlternateImage seqno="3">http://Img2.targetimg2.com/wcsstore/TargetSAS//img/p/14/17/14172817_Alt03_120724103000_50x50.jpg
+						</AlternateImage>
+					</AlternateImages>
+				</ImageSet>
+			</ImageSets>
+			<ItemAttributes>
+				<Title>MossimoÂ® Womens Plus-Size Short-Sleeve Pocket Ponte Dress -
+					Assorted Colors</Title>
+				<PackageDimensions>
+					<Height Units="INH"></Height>
+					<Length Units="INH"></Length>
+					<Weight Units="LBR"></Weight>
+					<Width Units="INH"></Width>
+				</PackageDimensions>
+				<BatteriesIncluded>N</BatteriesIncluded>
+				<BatteriesRequired>N</BatteriesRequired>
+				<CatalogNumber>205060436</CatalogNumber>
+				<ReturnMethod>This item can be returned to any Target store or
+					Target.com.</ReturnMethod>
+				<POBoxShippingExcluded>United States Minor Outlying
+					Islands,Guam,Virgin Islands, U.S.,American Samoa,Northern Mariana
+					Islands</POBoxShippingExcluded>
+				<Attribute name="SIZE_CHART" value="Y" />
+				<Attribute name="110430" value="Spandex" />
+				<Attribute name="107703" value="Tumble dry low,Machine wash, cold" />
+				<Attribute name="COUNTRY_SOURCE" value="CHINA" />
+				<Attribute name="MANUFACTURING_BRAND" value="MOSSIMO BLACK" />
+				<Attribute name="110435" value="70" />
+				<Attribute name="EDIT_LONGCOPY" value="N" />
+				<Attribute name="110436" value="25" />
+				<Attribute name="110437" value="5" />
+				<Attribute name="STYLE" value="5" />
+				<Attribute name="PO_BOX_PROHIBITED" value="Y" />
+				<Attribute name="EXPRESS_DELIVERY_ELIGIBLE" value="N" />
+				<Attribute name="BATTERIES_REQUIRED" value="N" />
+				<Attribute name="KEY_ITEM" value="N" />
+				<Attribute name="TRUE_TO_SIZE" value="4" />
+				<Attribute name="HAS_WARRANTY" value="N" />
+				<Attribute name="WHENEVER_SHIPPING_ELIGIBLE" value="N" />
+				<Attribute name="VPP_$_EST" value="0" />
+				<Attribute name="VPP_%_EST" value="0" />
+				<Attribute name="110444" value="Dress" />
+				<Attribute name="110400" value="At knee" />
+				<Attribute name="NUMBER_OF_RATINGS" value="1" />
+				<Attribute name="110445" value="Knit Dress" />
+				<Attribute name="110401" value="Finished" />
+				<Attribute name="110402" value="Opaque" />
+				<Attribute name="110446" value="Scoop" />
+				<Attribute name="PRODUCT_PRICECODE" value="1" />
+				<Attribute name="110447" value="Wear to Work" />
+				<Attribute name="110407" value="Plus" />
+				<Attribute name="110408" value="Short sleeve" />
+				<Attribute name="110409" value="Ponte" />
+				<Attribute name="DIVISION" value="Apparel - Accessories" />
+				<Attribute name="LIST_RANGE_MIN" value="29.99" />
+				<Attribute name="IAC_ID" value="Womens Dresses" />
+				<Attribute name="BATTERIES_INCLUDED" value="N" />
+				<Attribute name="MERCH_CLASS" value="316" />
+				<Attribute name="SOI_PRICE_Display" value="Y" />
+				<Attribute name="IS_FRAGILE" value="N" />
+				<Attribute name="110294" value="Finished" />
+				<Attribute name="IMPORT_DESIGNATION" value="IM" />
+				<Attribute name="112550" value="Solid" />
+				<Attribute name="110296" value="Pullover" />
+				<Attribute name="107888" value="Solid" />
+				<Attribute name="110451"
+					value="Back darts,Double stitched seams,Front darts" />
+				<Attribute name="110297" value="Midweight Fabric Construction" />
+				<Attribute name="108659" value="Medium" />
+				<Attribute name="110298" value="Contemporary Fit" />
+				<Attribute name="LIST_RANGE_MAX" value="29.99" />
+				<Attribute name="102115" value="Straight Skirt" />
+				<Attribute name="HAS_PROP65" value="N" />
+				<Attribute name="LAUNCH_PUBLISH_FLAG" value="Y" />
+				<Attribute name="MAX_ORDER_QTY" value="0" />
+				<Attribute name="IAC_GROUP" value="APPAREL" />
+				<Attribute name="SHIP_TO_RESTRICTION"
+					value="United States Minor Outlying Islands,Guam,Virgin Islands, U.S.,American Samoa,Northern Mariana Islands" />
+				<Attribute name="OFFER_RANGE_MIN" value="14" />
+				<Attribute name="BUYERSHIP" value="RTW" />
+				<Attribute name="RETURN_METHOD"
+					value="This item can be returned to any Target store or Target.com." />
+				<Attribute name="VALUE" value="5" />
+				<Attribute name="BACKORDER_TYPE" value="Not Allowed" />
+				<Attribute name="GIFT_WRAPABLE" value="Y" />
+				<Attribute name="IAC_SUBGROUP" value="WOMEN" />
+				<Attribute name="IS_FOOD" value="N" />
+				<Attribute name="MERCHANT_PUBLISH_FLAG" value="Y" />
+				<Attribute name="IS_HAZMAT" value="N" />
+				<Attribute name="108460" value="Mossimo" />
+				<Attribute name="ASIN" value="14172817" />
+				<Attribute name="ASSEMBLY_REQUIRED" value="N" />
+				<Attribute name="MERCH_SUBCLASS" value="Z Open                        " />
+				<Attribute name="CIRCULAR_PUBLISH_FLAG" value="Y" />
+				<Attribute name="BEDDING" value="N" />
+				<Attribute name="OFFER_RANGE_MAX" value="14" />
+				<Attribute name="CONSOLIDATED_RATING" value="5" />
+				<Attribute name="SIGN_REQUIRED" value="N" />
+				<Attribute name="RELATION_ITEM_TYPE" value="Variation Parent" />
+				<Attribute name="MAP_PRICE" value="N" />
+				<Attribute name="110425" value="Dolman" />
+				<Attribute name="110428" value="Polyester" />
+				<Attribute name="110429" value="Rayon" />
+				<Attribute name="IAC_DELETE_FLAG" value="yes" />
+				<Attribute name="NO_OF_BOXES" value="0" />
+				<Attribute name="WINDOW" value="N" />
+				<Attribute name="EDIT_ADHOC_BULLETS" value="N" />
+			</ItemAttributes>
+		</Item>
+		<Item>
+			<ASIN>14214178</ASIN>
+			<TCIN>14214178</TCIN>
+			<SKU>14214178</SKU>
+			<DPCI>-</DPCI>
+			<Department>-</Department>
+			<ClassId>-</ClassId>
+			<ItemId>-</ItemId>
+			<Webclass>Swim &amp; Outerwear</Webclass>
+			<DetailPageURL>http://www.target.com/p/junior-s-crisscross-monokini-assorted-colors/-/A-14214178
+			</DetailPageURL>
+			<SmallImage>
+				<URL>http://Img1.targetimg1.com/wcsstore/TargetSAS//img/p/14/21/14214178_121101103000_75x75.jpg
+				</URL>
+				<Height Units="pixels">75</Height>
+				<Width Units="pixels">75</Width>
+			</SmallImage>
+			<LargeImage>
+				<URL>http://Img1.targetimg1.com/wcsstore/TargetSAS//img/p/14/21/14214178_121101103000.jpg
+				</URL>
+				<Height Units="pixels">500</Height>
+				<Width Units="pixels">500</Width>
+			</LargeImage>
+			<ImageSets>
+				<ImageSet Category="primary">
+					<SmallImage>
+						<URL>http://Img1.targetimg1.com/wcsstore/TargetSAS//img/p/14/21/14214178_121101103000_75x75.jpg
+						</URL>
+						<Height Units="pixels">75</Height>
+						<Width Units="pixels">75</Width>
+					</SmallImage>
+					<ThumbnailImage>
+						<URL>http://Img1.targetimg1.com/wcsstore/TargetSAS//img/p/14/21/14214178_121101103000_75x75.jpg
+						</URL>
+						<Height Units="pixels">75</Height>
+						<Width Units="pixels">75</Width>
+					</ThumbnailImage>
+					<LargeImage>
+						<URL>http://Img1.targetimg1.com/wcsstore/TargetSAS//img/p/14/21/14214178_121101103000.jpg
+						</URL>
+						<Height Units="pixels">500</Height>
+						<Width Units="pixels">500</Width>
+					</LargeImage>
+				</ImageSet>
+				<ImageSet Category="variant">
+					<AlternateImages>
+						<AlternateImageCount>3</AlternateImageCount>
+						<AlternateImage seqno="0">http://Img1.targetimg1.com/wcsstore/TargetSAS//img/p/14/21/14214178_Alt02_121211183000_50x50.jpg
+						</AlternateImage>
+						<AlternateImage seqno="0">http://Img1.targetimg1.com/wcsstore/TargetSAS//img/p/14/21/14214178_121101103000_50x50.jpg
+						</AlternateImage>
+						<AlternateImage seqno="3">http://Img1.targetimg1.com/wcsstore/TargetSAS//img/p/14/21/14214178_Alt03_121211203000_50x50.jpg
+						</AlternateImage>
+					</AlternateImages>
+				</ImageSet>
+			</ImageSets>
+			<ItemAttributes>
+				<Title>Junior's Crisscross Monokini -Assorted Colors</Title>
+				<PackageDimensions>
+					<Height Units="INH"></Height>
+					<Length Units="INH"></Length>
+					<Weight Units="LBR"></Weight>
+					<Width Units="INH"></Width>
+				</PackageDimensions>
+				<BatteriesIncluded>N</BatteriesIncluded>
+				<BatteriesRequired>N</BatteriesRequired>
+				<CatalogNumber>205144537</CatalogNumber>
+				<ReturnMethod>This item can be returned to any Target store or
+					Target.com.</ReturnMethod>
+				<Attribute name="SIZE_CHART" value="N" />
+				<Attribute name="133662" value="No underwire" />
+				<Attribute name="104755" value="Female" />
+				<Attribute name="133466" value="No UPF rating" />
+				<Attribute name="COUNTRY_SOURCE" value="CHINA" />
+				<Attribute name="MANUFACTURING_BRAND" value="VM" />
+				<Attribute name="107707" value="Variation Parent" />
+				<Attribute name="110435" value="82" />
+				<Attribute name="EDIT_LONGCOPY" value="N" />
+				<Attribute name="110436" value="18" />
+				<Attribute name="PO_BOX_PROHIBITED" value="Y" />
+				<Attribute name="EXPRESS_DELIVERY_ELIGIBLE" value="Y" />
+				<Attribute name="BATTERIES_REQUIRED" value="N" />
+				<Attribute name="KEY_ITEM" value="N" />
+				<Attribute name="139851" value="100" />
+				<Attribute name="133350" value="Monokinis" />
+				<Attribute name="133551" value="Removeable padding,Full lining" />
+				<Attribute name="HAS_WARRANTY" value="N" />
+				<Attribute name="WHENEVER_SHIPPING_ELIGIBLE" value="N" />
+				<Attribute name="VPP_$_EST" value="0" />
+				<Attribute name="VPP_%_EST" value="0" />
+				<Attribute name="133358" value="Hand wash, cold" />
+				<Attribute name="110446" value="V neck" />
+				<Attribute name="PRODUCT_PRICECODE" value="1" />
+				<Attribute name="110407" value="Junior" />
+				<Attribute name="110408" value="Sleeveless" />
+				<Attribute name="DIVISION" value="Apparel - Accessories" />
+				<Attribute name="LIST_RANGE_MIN" value="24.99" />
+				<Attribute name="IAC_ID" value="IMN Full body swimwear" />
+				<Attribute name="BATTERIES_INCLUDED" value="N" />
+				<Attribute name="MERCH_CLASS" value="309" />
+				<Attribute name="SOI_PRICE_Display" value="Y" />
+				<Attribute name="IS_FRAGILE" value="N" />
+				<Attribute name="110292" value="Open" />
+				<Attribute name="IMPORT_DESIGNATION" value="IM" />
+				<Attribute name="107886"
+					value="Teen (13-18 years),Adult (18 years and up)" />
+				<Attribute name="112550" value="Solid" />
+				<Attribute name="107888" value="Solid" />
+				<Attribute name="LIST_RANGE_MAX" value="24.99" />
+				<Attribute name="133688" value="Line dry" />
+				<Attribute name="133689" value="Do not iron" />
+				<Attribute name="HAS_PROP65" value="N" />
+				<Attribute name="LAUNCH_PUBLISH_FLAG" value="Y" />
+				<Attribute name="MAX_ORDER_QTY" value="0" />
+				<Attribute name="IAC_GROUP" value="APPAREL" />
+				<Attribute name="OFFER_RANGE_MIN" value="18" />
+				<Attribute name="BUYERSHIP" value="RTW" />
+				<Attribute name="RETURN_METHOD"
+					value="This item can be returned to any Target store or Target.com." />
+				<Attribute name="BACKORDER_TYPE" value="Not Allowed" />
+				<Attribute name="IS_FOOD" value="N" />
+				<Attribute name="GIFT_WRAPABLE" value="Y" />
+				<Attribute name="IAC_SUBGROUP" value="SWIMWEAR" />
+				<Attribute name="MERCHANT_PUBLISH_FLAG" value="Y" />
+				<Attribute name="IS_HAZMAT" value="N" />
+				<Attribute name="ASIN" value="14214178" />
+				<Attribute name="MERCH_SUBCLASS" value="Z Open                        " />
+				<Attribute name="ASSEMBLY_REQUIRED" value="N" />
+				<Attribute name="CIRCULAR_PUBLISH_FLAG" value="Y" />
+				<Attribute name="OFFER_RANGE_MAX" value="18" />
+				<Attribute name="BEDDING" value="N" />
+				<Attribute name="133452" value="Back tie" />
+				<Attribute name="133574" value="Non chlorine bleach when needed" />
+				<Attribute name="SIGN_REQUIRED" value="N" />
+				<Attribute name="133575" value="Do not dry clean" />
+				<Attribute name="133697" value="Padded cup" />
+				<Attribute name="RELATION_ITEM_TYPE" value="Variation Parent" />
+				<Attribute name="MAP_PRICE" value="N" />
+				<Attribute name="110428" value="Nylon" />
+				<Attribute name="110429" value="Elastane" />
+				<Attribute name="IAC_DELETE_FLAG" value="yes" />
+				<Attribute name="NO_OF_BOXES" value="0" />
+				<Attribute name="WINDOW" value="N" />
+				<Attribute name="EDIT_ADHOC_BULLETS" value="N" />
+				<Attribute name="133580" value="Polyester" />
+				<Attribute name="133660" value="Spaghetti straps" />
+			</ItemAttributes>
+		</Item>
+		<Item>
+			<ASIN>14277910</ASIN>
+			<TCIN>14277910</TCIN>
+			<SKU>14277910</SKU>
+			<DPCI>-</DPCI>
+			<Department>-</Department>
+			<ClassId>-</ClassId>
+			<ItemId>-</ItemId>
+			<Webclass>Swim &amp; Outerwear</Webclass>
+			<DetailPageURL>http://www.target.com/p/clean-water-women-s-2-piece-swimsuit-blue-fish-print/-/A-14277910
+			</DetailPageURL>
+			<SmallImage>
+				<URL>http://Img1.targetimg1.com/wcsstore/TargetSAS//img/p/14/27/14277910_121006023000_75x75.jpg
+				</URL>
+				<Height Units="pixels">75</Height>
+				<Width Units="pixels">75</Width>
+			</SmallImage>
+			<LargeImage>
+				<URL>http://Img1.targetimg1.com/wcsstore/TargetSAS//img/p/14/27/14277910_121006023000.jpg
+				</URL>
+				<Height Units="pixels">500</Height>
+				<Width Units="pixels">500</Width>
+			</LargeImage>
+			<ImageSets>
+				<ImageSet Category="primary">
+					<SmallImage>
+						<URL>http://Img1.targetimg1.com/wcsstore/TargetSAS//img/p/14/27/14277910_121006023000_75x75.jpg
+						</URL>
+						<Height Units="pixels">75</Height>
+						<Width Units="pixels">75</Width>
+					</SmallImage>
+					<ThumbnailImage>
+						<URL>http://Img1.targetimg1.com/wcsstore/TargetSAS//img/p/14/27/14277910_121006023000_75x75.jpg
+						</URL>
+						<Height Units="pixels">75</Height>
+						<Width Units="pixels">75</Width>
+					</ThumbnailImage>
+					<LargeImage>
+						<URL>http://Img1.targetimg1.com/wcsstore/TargetSAS//img/p/14/27/14277910_121006023000.jpg
+						</URL>
+						<Height Units="pixels">500</Height>
+						<Width Units="pixels">500</Width>
+					</LargeImage>
+				</ImageSet>
+				<ImageSet Category="variant">
+					<AlternateImages>
+						<AlternateImageCount>3</AlternateImageCount>
+						<AlternateImage seqno="0">http://Img1.targetimg1.com/wcsstore/TargetSAS//img/p/14/27/14277910_Alt02_121107203000_50x50.jpg
+						</AlternateImage>
+						<AlternateImage seqno="0">http://Img1.targetimg1.com/wcsstore/TargetSAS//img/p/14/27/14277910_121006023000_50x50.jpg
+						</AlternateImage>
+						<AlternateImage seqno="3">http://Img1.targetimg1.com/wcsstore/TargetSAS//img/p/14/27/14277910_Alt03_121107203000_50x50.jpg
+						</AlternateImage>
+					</AlternateImages>
+				</ImageSet>
+			</ImageSets>
+			<ItemAttributes>
+				<Title>Clean Water Women's 2-Piece Swimsuit -Blue Fish Print</Title>
+				<BatteriesIncluded>N</BatteriesIncluded>
+				<BatteriesRequired>N</BatteriesRequired>
+				<CatalogNumber>205297728</CatalogNumber>
+				<Attribute name="SIZE_CHART" value="N" />
+				<Attribute name="107703" value="Hand Wash Cold,Line dry" />
+				<Attribute name="110433" value="Polyester" />
+				<Attribute name="COUNTRY_SOURCE" value="CHINA" />
+				<Attribute name="MANUFACTURING_BRAND" value="Clean Water" />
+				<Attribute name="107707" value="Blue" />
+				<Attribute name="110435" value="83" />
+				<Attribute name="EDIT_LONGCOPY" value="N" />
+				<Attribute name="110436" value="17" />
+				<Attribute name="110438" value="100" />
+				<Attribute name="PO_BOX_PROHIBITED" value="Y" />
+				<Attribute name="EXPRESS_DELIVERY_ELIGIBLE" value="Y" />
+				<Attribute name="BATTERIES_REQUIRED" value="N" />
+				<Attribute name="KEY_ITEM" value="N" />
+				<Attribute name="HAS_WARRANTY" value="N" />
+				<Attribute name="WHENEVER_SHIPPING_ELIGIBLE" value="N" />
+				<Attribute name="110200" value="Decorative hardware" />
+				<Attribute name="VPP_$_EST" value="0" />
+				<Attribute name="VPP_%_EST" value="0" />
+				<Attribute name="110444" value="Swimwear Set" />
+				<Attribute name="110445" value="Triangle Top,Halter top" />
+				<Attribute name="110447" value="Swimming" />
+				<Attribute name="110407" value="Women" />
+				<Attribute name="DIVISION" value="Apparel - Accessories" />
+				<Attribute name="LIST_RANGE_MIN" value="19.99" />
+				<Attribute name="IAC_ID" value="Womens Swimwear" />
+				<Attribute name="BATTERIES_INCLUDED" value="N" />
+				<Attribute name="MERCH_CLASS" value="309" />
+				<Attribute name="SOI_PRICE_Display" value="Y" />
+				<Attribute name="COLLECTION_TYPE" value="STANDARD" />
+				<Attribute name="110292" value="Tie" />
+				<Attribute name="IS_FRAGILE" value="N" />
+				<Attribute name="IMPORT_DESIGNATION" value="IM" />
+				<Attribute name="110295" value="Padded" />
+				<Attribute name="110296" value="Dual Neck and Back Tie" />
+				<Attribute name="107888" value="Animal Icon" />
+				<Attribute name="110451"
+					value="Halter Straps,Partially Lined,Removable Padding" />
+				<Attribute name="LIST_RANGE_MAX" value="25.99" />
+				<Attribute name="COLOR" value="Blue" />
+				<Attribute name="HAS_PROP65" value="N" />
+				<Attribute name="LAUNCH_PUBLISH_FLAG" value="Y" />
+				<Attribute name="MAX_ORDER_QTY" value="0" />
+				<Attribute name="IAC_GROUP" value="APPAREL" />
+				<Attribute name="OFFER_RANGE_MIN" value="16" />
+				<Attribute name="BUYERSHIP" value="RTW" />
+				<Attribute name="BACKORDER_TYPE" value="Not Allowed" />
+				<Attribute name="IS_FOOD" value="N" />
+				<Attribute name="GIFT_WRAPABLE" value="Y" />
+				<Attribute name="IAC_SUBGROUP" value="WOMEN" />
+				<Attribute name="MERCHANT_PUBLISH_FLAG" value="Y" />
+				<Attribute name="IS_HAZMAT" value="N" />
+				<Attribute name="ASIN" value="14277910" />
+				<Attribute name="MERCH_SUBCLASS" value="Z Open                        " />
+				<Attribute name="ASSEMBLY_REQUIRED" value="N" />
+				<Attribute name="CIRCULAR_PUBLISH_FLAG" value="Y" />
+				<Attribute name="OFFER_RANGE_MAX" value="20" />
+				<Attribute name="BEDDING" value="N" />
+				<Attribute name="SIGN_REQUIRED" value="N" />
+				<Attribute name="RELATION_ITEM_TYPE" value="Collection Parent" />
+				<Attribute name="MAP_PRICE" value="0" />
+				<Attribute name="110428" value="Polyester" />
+				<Attribute name="110429" value="Spandex" />
+				<Attribute name="IAC_DELETE_FLAG" value="yes" />
+				<Attribute name="NO_OF_BOXES" value="0" />
+				<Attribute name="WINDOW" value="N" />
+				<Attribute name="EDIT_ADHOC_BULLETS" value="N" />
+			</ItemAttributes>
+		</Item>
+	</Items>
+</ItemLookupResponse>

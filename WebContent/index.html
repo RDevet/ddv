@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>RedAllure</title>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1"> 
+
+	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.1.0/jquery.mobile-1.1.0.min.css" />
+	<script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+	<script src="http://code.jquery.com/mobile/1.1.0/jquery.mobile-1.1.0.min.js"></script>
+	<script src=" http://connect.facebook.net/en_US/all.js"></script>
+	<script src="js/tgt-facebook.js"></script>
+
+</head>
+
+
+<body>
+<div id="fb-root"></div>
+
+<div data-role="page">
+
+	<div data-role="header">
+		<h1>RedAllure</h1>
+	</div><!-- /header -->
+
+	<div data-role="content">	
+		<p>Login to allow RedAllure access to your Facebook profile.</p>		
+	</div><!-- /content -->
+
+	<div align="CENTER" data-role="content" data-theme="c">
+
+		<div class="content-primary">
+		<p>
+		<a href="javascript:loginUser();" data-role="button" data-theme="b">FB Login</a>
+		</p>
+<!-- 		<p> -->
+<!-- 		<a href="recommend.do?deptId=5118498&storeId=1764&deptName=electronics&action=getItems" data-role="button">Target Recommendations For You</a> -->
+<!-- 		</p> -->
+		<p>
+		<a href="recommend.do?interestName=Cooking&action=getRecommendedItems" data-role="button">Target Recommendations For You</a>
+		</p>
+		<p>
+		<a href="friends.do" data-role="button">Target Recommendations For Friends</a>
+		</p>		
+			
+		</div>
+		<div id="placeholder"></div>
+		<div id="interests"><b>Interests:</b><br>  </div>
+		
+		</div>
+
+    <div data-role="footer" data-theme="d" align="center">
+    © 2012 Target Corporation
+    </div>
+		
+</div><!-- /page -->
+
+</body>
+</html>

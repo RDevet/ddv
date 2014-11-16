@@ -1,0 +1,71 @@
+<html>
+<head>
+  <title>Hello World</title>
+  <style>
+    body.connected #login { display: none; }
+    body.connected #logout { display: block; }
+    body.not_connected #login { display: block; }
+    body.not_connected #logout { display: none; }
+  </style>
+  
+</head>
+<body>
+  <div id="fb-root"></div>
+  
+  <script src=" http://connect.facebook.net/en_US/all.js"></script>
+  
+  <script>
+  
+    window.fbAsyncInit = function() {
+      FB.init({ appId: '237763859667425', 
+      status: true, 
+      cookie: true,
+      xfbml: true,
+      oauth: true});
+ 
+      FB.Event.subscribe('auth.statusChange', handleStatusChange);	
+    };
+
+    function handleStatusChange(response) {
+     document.body.className = response.authResponse ? 'connected' : 'not_connected';
+    
+     if (response.authResponse) {
+       console.log(response);
+       updateUserInfo(response);
+     }
+   }
+
+    function loginUser() {    
+      FB.login(function(response) { }, {scope:'email'});  	
+    }
+
+    function uninstallApp() {
+      FB.api({method: 'auth.revokeAuthorization'},
+        function(response) {
+          window.location.reload();
+        });
+    }
+        
+    function updateUserInfo(response) {
+      FB.api('/me', function(response) {
+        document.getElementById('user-info').innerHTML = '<img src="https://graph.facebook.com/' + response.id + '/picture">' + response.name;
+      });
+    }
+  </script>
+  
+   
+   <div id="login">
+     <p><button onClick="loginUser();">Login</button></p>
+   </div>
+   <div id="logout">
+     <div id="user-info"></div>
+     <p><button  onClick="FB.logout();">Logout</button></p>
+   </div>
+   <div id="logout">
+     <p><button onClick="uninstallApp();">Uninstall app</button></p>
+   </div>
+   
+  <div id="user-info"></div>
+
+</body>
+</html>
